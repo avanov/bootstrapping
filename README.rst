@@ -1,11 +1,15 @@
+=============
 Bootstrapping
 =============
 
 A set of reminders of environment bootstrapping
 
 
-Rust on OSX
------------
+OSX
+===
+
+Rust
+----
 
 ..code-block:: bash
 
@@ -28,3 +32,11 @@ Rust on OSX
     cargo run
 
     cargo run --release
+
+
+Haskell
+-------
+
+..code-block:: bash
+
+    $ brew install haskell-stack
