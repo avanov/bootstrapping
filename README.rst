@@ -40,3 +40,6 @@ Haskell
 ..code-block:: bash
 
     $ brew install haskell-stack
+
+
+* Read https://www.yesodweb.com/page/quickstart
